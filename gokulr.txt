@@ -1,4 +1,8 @@
 git class
+<<<<<<< Updated upstream
 i am gokul 
 department cse
 kec
+=======
+i am gokul 
+>>>>>>> Stashed changes
